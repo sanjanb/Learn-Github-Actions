@@ -2,6 +2,8 @@
 
 Welcome to the comprehensive guide on CI/CD solutions! This document will help you understand the basics of Continuous Integration and Continuous Deployment (CI/CD) and provide an in-depth look at GitHub Actions, comparing it with Jenkins. Whether you're new to DevOps or looking to enhance your CI/CD workflows, this guide is for you.
 
+![CICD](assets/CICD.png)
+
 ## Introduction to CI/CD
 
 CI/CD is a set of practices that enable development teams to deliver code changes more frequently and reliably. The primary goals of CI/CD are to improve software quality, accelerate delivery, and reduce manual interventions.
