@@ -2,7 +2,7 @@
 
 Welcome to the comprehensive guide on CI/CD solutions! This document will help you understand the basics of Continuous Integration and Continuous Deployment (CI/CD) and provide an in-depth look at GitHub Actions, comparing it with Jenkins. Whether you're new to DevOps or looking to enhance your CI/CD workflows, this guide is for you.
 
-![CICD](assets/CICD.png)
+![CI CD](assets/CICD.png)
 
 ## Introduction to CI/CD
 
