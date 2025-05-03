@@ -1,6 +1,7 @@
 # Introduction to Git and Version Control
 
 Welcome to the introduction to Git and Version Control! This guide will help you understand the basics of version control systems and how Git fits into the picture. Whether you're new to software development or looking to improve your workflow, this guide is for you.
+[version Control System](assets/git and github.png)
 
 ## What is Version Control?
 
