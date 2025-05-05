@@ -2,6 +2,8 @@
 
 Welcome to the guide on understanding the focus on the GitHub platform, particularly in the context of GitHub Actions. This document will help you grasp the significance of GitHub Actions being tightly integrated with the GitHub platform and its implications for your projects.
 
+![platform](/assets/platform.png)
+
 ## Introduction to GitHub Actions
 
 GitHub Actions is a powerful CI/CD tool that automates your software development workflows directly within GitHub. It is introduced as the topic for **day 20** of a comprehensive DevOps course, following a discussion on Jenkins. This comparative context highlights the unique characteristics of GitHub Actions.
